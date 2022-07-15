@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tema1REfacere</string>
+    <string name="logo_clinica">logo</string>
+    <string name="chestionar_text">chestionar</string>
+    <string name="feedback_text">feedback_text</string>
+    <string name="start_btn">INCEPE</string>
+    <string name="tahnkyoulogo">TahnkYouLogo</string>
+    <string name="multumim_msg">Multumim ca ati ales LifeMED!</string>
+    <string name="instructiuniintroductive">In cele ce urmeaza va vom pune cateva intrebari cu privire la experienta dumneavoastra in clinica LifeMED. Pentru reclamatii va rugam sa ne contactati pe email la andresa: contact@life_med</string>
+    <string name="intrebarea_1_n">Intrebarea 1/n</string>
+    <string name="warning_raspuns_gol">Va rog selectati o optiune!</string>
+    <string name="intrebare">Intrebare:</string>
+    <string name="final_mess">Multumim! Raspunsul dvs a fost inregistrat!</string>
+    <string name="btnNexttxt">NEXT</string>
+    <string name="logoclinicacolorat">logoclinicacolorat</string>
+    <string name="stele">5stele</string>
+    <string name="intrebare1">Intrebare1?</string>
+    <string name="txt_rb1">Satisfacator</string>
+    <string name="txt_rb2">In regula</string>
+    <string name="txt_rb3">Decent</string>
+    <string name="txt_rb4">Nesatisfacator</string>
+    <string name="txt_rb5">De neconceput</string>
+    <string name="btn_act3">NEXT</string>
+</resources>
